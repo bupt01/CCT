@@ -1,2 +1,2 @@
-copy from XXX   for learning
+copy from https://github.com/parasol-aser/JMCR for learning
 
